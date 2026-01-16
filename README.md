@@ -35,72 +35,72 @@ This project uses Power BI to build an interactive analytics dashboard that prov
 
 The dashboard tracks the following KPIs:
 
-Total Claims – Total number of insurance claims raised
+- Total Claims – Total number of insurance claims raised
 
-Total Claim Amount – Total amount claimed by customers
+- Total Claim Amount – Total amount claimed by customers
 
-Total Approved Amount – Total amount approved by the insurer
+- Total Approved Amount – Total amount approved by the insurer
 
-Rejected Claims – Number of claims rejected
+- Rejected Claims – Number of claims rejected
 
-Claim Rejection Percentage – Rejected claims as a percentage of total claims
+- Claim Rejection Percentage – Rejected claims as a percentage of total claims
 
-Average Settlement Days – Average time taken to settle claims
+- Average Settlement Days – Average time taken to settle claims
 
-Revenue Leakage – Difference between claimed and approved amounts
+- Revenue Leakage – Difference between claimed and approved amounts
 
 ## Business Analysis Focus
 
-Identify hospitals with high claim rejection rates
+- Identify hospitals with high claim rejection rates
 
-Detect revenue leakage across hospitals and policy types
+- Detect revenue leakage across hospitals and policy types
 
-Analyze settlement delays and operational bottlenecks
+- Analyze settlement delays and operational bottlenecks
 
-Compare claim performance by hospital, city, and policy type
+- Compare claim performance by hospital, city, and policy type
 
-Enable management to take corrective, data-driven actions
+- Enable management to take corrective, data-driven actions
 
 ## Solution Approach
 
-Built an interactive Power BI dashboard using healthcare insurance datasets
+- Built an interactive Power BI dashboard using healthcare insurance datasets
 
-Designed a star-schema data model for efficient analytics
+- Designed a star-schema data model for efficient analytics
 
-Created DAX measures to calculate critical business KPIs
+- Created DAX measures to calculate critical business KPIs
 
-Implemented filters to drill down by hospital, city, and policy type
+- Implemented filters to drill down by hospital, city, and policy type
 
-Enabled real-time insights for faster and better decision-making
+- Enabled real-time insights for faster and better decision-making
 
 ## Business Impact
 
-Improved visibility into claim rejection patterns
+- Improved visibility into claim rejection patterns
 
-Early detection of revenue leakage and financial losses
+- Early detection of revenue leakage and financial losses
 
-Faster settlement monitoring and operational control
+- Faster settlement monitoring and operational control
 
-Enhanced decision-making for management and operations teams
+- Enhanced decision-making for management and operations teams
 
 ## Tools & Technologies
 
-Power BI
+- Power BI
 
-DAX
+- DAX
 
-Data Modeling (Star Schema)
+- Data Modeling (Star Schema)
 
-Healthcare Insurance Data
+- Healthcare Insurance Data
 
-Business Intelligence & Analytics
+- Business Intelligence & Analytics
 
 ## Key Learnings
 
-End-to-end BI solution design
+- End-to-end BI solution design
 
-KPI-driven dashboard development
+- KPI-driven dashboard development
 
-Real-world healthcare analytics use case
+- Real-world healthcare analytics use case
 
-Translating business problems into data solutions
+- Translating business problems into data solutions
