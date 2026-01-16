@@ -49,6 +49,8 @@ The dashboard tracks the following KPIs:
 
 - Revenue Leakage – Difference between claimed and approved amounts
 
+- Dashboard Interaction <a href="https://github.com/devaki1912/Healthcare-Claims-Analytics/blob/main/HospitalClaims%26RevenueAnalysis.png">View Dashboard</a>
+
 ## Business Analysis Focus
 
 - Identify hospitals with high claim rejection rates
