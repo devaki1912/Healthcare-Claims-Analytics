@@ -1,0 +1,4 @@
+PolicyID,PolicyType,Premium,CoverageAmount
+P01,Gold,25000,500000
+P02,Silver,18000,300000
+P03,Bronze,12000,150000

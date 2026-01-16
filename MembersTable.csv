@@ -1,0 +1,11 @@
+MemberID,Age,Gender,City,PolicyID
+M001,45,Male,Chennai,P01
+M002,34,Female,Bangalore,P02
+M003,50,Male,Chennai,P01
+M004,29,Female,Hyderabad,P03
+M005,41,Male,Bangalore,P01
+M006,36,Female,Chennai,P02
+M007,55,Male,Hyderabad,P01
+M008,26,Female,Bangalore,P03
+M009,39,Male,Chennai,P02
+M010,48,Female,Hyderabad,P01
