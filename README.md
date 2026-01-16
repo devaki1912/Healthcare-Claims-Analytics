@@ -75,6 +75,18 @@ The dashboard tracks the following KPIs:
 
 - Enabled real-time insights for faster and better decision-making
 
+## Tools & Technologies
+
+- Power BI
+
+- DAX
+
+- Data Modeling (Star Schema)
+
+- Healthcare Insurance Data
+
+- Business Intelligence & Analytics
+
 ## Business Impact
 
 - Improved visibility into claim rejection patterns
@@ -88,18 +100,6 @@ The dashboard tracks the following KPIs:
 ## Dashboard
 
 <img width="1157" height="647" alt="HospitalClaims RevenueAnalysis" src="https://github.com/user-attachments/assets/a33396cd-d37a-4ff7-aab3-98af4c6b519f" />
-
-## Tools & Technologies
-
-- Power BI
-
-- DAX
-
-- Data Modeling (Star Schema)
-
-- Healthcare Insurance Data
-
-- Business Intelligence & Analytics
 
 ## Key Learnings
 
