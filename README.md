@@ -22,6 +22,9 @@ Decision-making becomes slow and reactive
 
 This project addresses these challenges by transforming raw claims data into meaningful insights.
 
+## Dataset Used
+<a href="https://github.com/devaki1912/Healthcare-Claims-Analytics/blob/main/ClaimTable.csv">Healthcare-Claims-Analytics</a>
+
  ## Key Performance Indicators (KPIs)
 
 The dashboard tracks the following KPIs:
