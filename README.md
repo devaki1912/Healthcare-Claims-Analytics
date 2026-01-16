@@ -10,26 +10,26 @@ This project uses Power BI to build an interactive analytics dashboard that prov
 
 ## Problem Statement
 
-Insurance providers lack a centralized system to analyze healthcare claims data. As a result:
+- Insurance providers lack a centralized system to analyze healthcare claims data. As a result:
 
-High claim rejection rates go unnoticed
+- High claim rejection rates go unnoticed
 
-Settlement delays impact customer satisfaction
+- Settlement delays impact customer satisfaction
 
-Revenue leakage is difficult to track
+- Revenue leakage is difficult to track
 
-Decision-making becomes slow and reactive
+- Decision-making becomes slow and reactive
 
-This project addresses these challenges by transforming raw claims data into meaningful insights.
+- This project addresses these challenges by transforming raw claims data into meaningful insights.
 
 ## Dataset Used
 - <a href="https://github.com/devaki1912/Healthcare-Claims-Analytics/blob/main/ClaimTable.csv">ClaimTable</a>
 
-<a href="https://github.com/devaki1912/Healthcare-Claims-Analytics/blob/main/HospitalTable.csv">HospitalTable</a>
+- <a href="https://github.com/devaki1912/Healthcare-Claims-Analytics/blob/main/HospitalTable.csv">HospitalTable</a>
 
-<a href="https://github.com/devaki1912/Healthcare-Claims-Analytics/blob/main/MembersTable.csv">MembersTable</a>
+- <a href="https://github.com/devaki1912/Healthcare-Claims-Analytics/blob/main/MembersTable.csv">MembersTable</a>
 
-<a href="https://github.com/devaki1912/Healthcare-Claims-Analytics/blob/main/PoliciesTable.csv">PoliciesTable</a>
+- <a href="https://github.com/devaki1912/Healthcare-Claims-Analytics/blob/main/PoliciesTable.csv">PoliciesTable</a>
 
  ## Key Performance Indicators (KPIs)
 
