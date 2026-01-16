@@ -1,6 +1,6 @@
 # Healthcare-Claims-Analytics
-Power BI dashboard for healthcare claims analysis, tracking rejection rates, settlement timelines, and revenue leakage using real insurance datasets.
-Healthcare Claims Analytics – Power BI Dashboard
+**Power BI dashboard for healthcare claims analysis, tracking rejection rates, settlement timelines, and revenue leakage using real insurance datasets.
+Healthcare Claims Analytics – Power BI Dashboard**
 
 ## Project Overview
 
@@ -8,7 +8,7 @@ Healthcare insurance companies process a high volume of claims involving multipl
 
 This project uses Power BI to build an interactive analytics dashboard that provides clear visibility into claims performance, helping insurers identify operational issues, financial losses, and improvement opportunities.
 
-**Problem Statement**
+## Problem Statement
 
 Insurance providers lack a centralized system to analyze healthcare claims data. As a result:
 
@@ -22,7 +22,7 @@ Decision-making becomes slow and reactive
 
 This project addresses these challenges by transforming raw claims data into meaningful insights.
 
- **Key Performance Indicators (KPIs)**
+ ## Key Performance Indicators (KPIs)
 
 The dashboard tracks the following KPIs:
 
@@ -40,7 +40,7 @@ Average Settlement Days – Average time taken to settle claims
 
 Revenue Leakage – Difference between claimed and approved amounts
 
-**Business Analysis Focus**
+## Business Analysis Focus
 
 Identify hospitals with high claim rejection rates
 
@@ -52,7 +52,7 @@ Compare claim performance by hospital, city, and policy type
 
 Enable management to take corrective, data-driven actions
 
-**Solution Approach**
+## Solution Approach
 
 Built an interactive Power BI dashboard using healthcare insurance datasets
 
@@ -64,7 +64,7 @@ Implemented filters to drill down by hospital, city, and policy type
 
 Enabled real-time insights for faster and better decision-making
 
-**Business Impact**
+## Business Impact
 
 Improved visibility into claim rejection patterns
 
@@ -74,7 +74,7 @@ Faster settlement monitoring and operational control
 
 Enhanced decision-making for management and operations teams
 
-**Tools & Technologies**
+## Tools & Technologies
 
 Power BI
 
@@ -86,7 +86,7 @@ Healthcare Insurance Data
 
 Business Intelligence & Analytics
 
-**Key Learnings**
+## Key Learnings
 
 End-to-end BI solution design
 
