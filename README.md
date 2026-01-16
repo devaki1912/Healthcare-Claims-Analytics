@@ -2,7 +2,7 @@
 Power BI dashboard for healthcare claims analysis, tracking rejection rates, settlement timelines, and revenue leakage using real insurance datasets.
 Healthcare Claims Analytics – Power BI Dashboard
 
-##Project Overview
+## Project Overview
 
 Healthcare insurance companies process a high volume of claims involving multiple hospitals, policy types, and members. Tracking claim approvals, rejections, settlement timelines, and revenue leakage manually is inefficient and prone to errors.
 
