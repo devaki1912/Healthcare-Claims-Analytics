@@ -51,6 +51,10 @@ The dashboard tracks the following KPIs:
 
 - Dashboard Interaction <a href="https://github.com/devaki1912/Healthcare-Claims-Analytics/blob/main/HospitalClaims%26RevenueAnalysis.png">View Dashboard</a>
 
+## Dashboard
+
+<img width="1157" height="647" alt="HospitalClaims RevenueAnalysis" src="https://github.com/user-attachments/assets/a33396cd-d37a-4ff7-aab3-98af4c6b519f" />
+
 ## Business Analysis Focus
 
 - Identify hospitals with high claim rejection rates
