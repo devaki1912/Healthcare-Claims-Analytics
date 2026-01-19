@@ -1,6 +1,5 @@
 # Healthcare-Claims-Analytics
-**Power BI dashboard for healthcare claims analysis, tracking rejection rates, settlement timelines, and revenue leakage using real insurance datasets.
-Healthcare Claims Analytics – Power BI Dashboard**
+**Power BI dashboard for healthcare claims analysis, tracking rejection rates, settlement timelines, and revenue leakage using real insurance datasets.**
 
 ## Project Overview
 
